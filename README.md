@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , I'm Cristian Rojas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=cyan&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+student+of+engineering...&#x1F9D1;&#x200D;&#x1F4BB;;I'm+a+Full+Stack+developer;I'm+a+passionate+about+technology;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=cyan&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+student+of+engineering...&#x1F9D1;&#x200D;&#x1F4BB;;I'm+a+Pentester;I'm+a+passionate+about+technology;" /></a>
 </p>
 <br>
 
